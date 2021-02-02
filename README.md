@@ -10,4 +10,5 @@ Read the [documentation](/docs)
 ## License
 
 Original work Copyright 2012, Gregg Tavares.
+
 Modified work Copyright 2021, Aaron Jewell
