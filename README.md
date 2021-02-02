@@ -5,7 +5,7 @@ Modified for TypeScript from [https://webgl2fundamentals.org/](https://webgl2fun
 
 ## Documentation
 
-Read the [documentation](/docs)
+Read the [documentation](https://aaronjewell.github.io/webgl2-utils/)
 
 ## License
 
