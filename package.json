@@ -31,9 +31,8 @@
     "type": "git",
     "url": "git+https://github.com/aaronjewell/webgl2-utils.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["webgl2"],
+  "author": "Aaron Jewell <me@aaronjewell.dev>",
   "bugs": {
     "url": "https://github.com/aaronjewell/webgl2-utils/issues"
   },
