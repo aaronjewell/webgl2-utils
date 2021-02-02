@@ -26,7 +26,7 @@
     "build:doc": "typedoc --out docs src/index.ts",
     "lint": "eslint -f unix \"src/**/*.{ts,tsx}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "npm run build && git add -A",
+    "version": "npm run build && git add -A dist",
     "postversion": "git push && git push --tags"
   },
   "repository": {
