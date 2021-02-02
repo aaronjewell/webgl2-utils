@@ -1,5 +1,5 @@
 {
-  "name": "webgl2-utils",
+  "name": "@aaronjewell/webgl2-utils",
   "version": "1.0.0",
   "description": "Simple, low-level helper functions for working with WebGL2.",
   "main": "dist/index.js",
@@ -31,10 +31,15 @@
     "type": "git",
     "url": "git+https://github.com/aaronjewell/webgl2-utils.git"
   },
-  "keywords": ["webgl2"],
+  "keywords": [
+    "webgl2"
+  ],
   "author": "Aaron Jewell <me@aaronjewell.dev>",
   "bugs": {
     "url": "https://github.com/aaronjewell/webgl2-utils/issues"
   },
-  "homepage": "https://github.com/aaronjewell/webgl2-utils#readme"
+  "homepage": "https://github.com/aaronjewell/webgl2-utils#readme",
+  "directories": {
+    "doc": "docs"
+  }
 }
